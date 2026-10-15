@@ -1,0 +1,50 @@
+#abc {
+    background-color: rgb(54, 117, 39);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    width: 200px;
+    height: 220px;
+}
+
+#abc,
+img {
+
+    padding-left: 20PX;
+}
+
+/* .myclass{
+        justify-content: space-between;
+
+    } */
+div {
+    display: inline-block;
+
+}
+
+
+.myNav {
+    background-color: rgb(100, 157, 183);
+    height: 50px;
+    padding: 5px 30px;
+}
+
+h2 {
+    display: inline-block;
+    margin: 0;
+    padding-top: 5px;
+}
+
+.myNav a {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.myNav a:first-of-type {
+    margin-left: 350px;
+}
+
+.login {
+    display: inline-block;
+    margin-left: 350px;
+}
